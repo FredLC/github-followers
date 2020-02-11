@@ -23,6 +23,10 @@ class FollowerCell: UICollectionViewCell {
         fatalError("init(coder:) has not been implemented")
     }
     
+    func set(follower: Follower) {
+        usernameLabel.text = follower.login
+    }
+    
     private func configure() {
         addSubview(avatarImage)
         addSubview(usernameLabel)
