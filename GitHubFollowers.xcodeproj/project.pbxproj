@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		483729ED23F21C9A00444157 /* ErrorMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 483729EC23F21C9A00444157 /* ErrorMessage.swift */; };
+		4880443E23F3313A00645ED8 /* UIHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4880443D23F3313A00645ED8 /* UIHelper.swift */; };
 		4890692923F0D3E400BED47D /* FollowersListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4890692823F0D3E400BED47D /* FollowersListVC.swift */; };
 		48A770A923F1EA7A00F44481 /* GFAlertContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48A770A823F1EA7A00F44481 /* GFAlertContainerView.swift */; };
 		48A770AC23F1EBBC00F44481 /* Follower.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48A770AB23F1EBBC00F44481 /* Follower.swift */; };
@@ -31,6 +32,7 @@
 
 /* Begin PBXFileReference section */
 		483729EC23F21C9A00444157 /* ErrorMessage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorMessage.swift; sourceTree = "<group>"; };
+		4880443D23F3313A00645ED8 /* UIHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIHelper.swift; sourceTree = "<group>"; };
 		4890692823F0D3E400BED47D /* FollowersListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FollowersListVC.swift; sourceTree = "<group>"; };
 		48A770A823F1EA7A00F44481 /* GFAlertContainerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFAlertContainerView.swift; sourceTree = "<group>"; };
 		48A770AB23F1EBBC00F44481 /* Follower.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Follower.swift; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 			isa = PBXGroup;
 			children = (
 				483729EC23F21C9A00444157 /* ErrorMessage.swift */,
+				4880443D23F3313A00645ED8 /* UIHelper.swift */,
 			);
 			path = Utilities;
 			sourceTree = "<group>";
@@ -250,6 +253,7 @@
 				48DCCEFB23F1AC3F0094FDBA /* GFTitleLabel.swift in Sources */,
 				48E1037023F09ED300015AD4 /* SearchVC.swift in Sources */,
 				483729ED23F21C9A00444157 /* ErrorMessage.swift in Sources */,
+				4880443E23F3313A00645ED8 /* UIHelper.swift in Sources */,
 				48A770B123F1FA9A00F44481 /* NetworkManager.swift in Sources */,
 				48EF7A2E23F08D7400B80688 /* AppDelegate.swift in Sources */,
 				48EF7A3023F08D7400B80688 /* SceneDelegate.swift in Sources */,
