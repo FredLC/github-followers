@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		483729ED23F21C9A00444157 /* ErrorMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 483729EC23F21C9A00444157 /* ErrorMessage.swift */; };
+		487470AE23F4644900E374B8 /* UserInfoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 487470AD23F4644900E374B8 /* UserInfoVC.swift */; };
 		4880443E23F3313A00645ED8 /* UIHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4880443D23F3313A00645ED8 /* UIHelper.swift */; };
 		4890692923F0D3E400BED47D /* FollowersListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4890692823F0D3E400BED47D /* FollowersListVC.swift */; };
 		48A770A923F1EA7A00F44481 /* GFAlertContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48A770A823F1EA7A00F44481 /* GFAlertContainerView.swift */; };
@@ -33,6 +34,7 @@
 
 /* Begin PBXFileReference section */
 		483729EC23F21C9A00444157 /* ErrorMessage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorMessage.swift; sourceTree = "<group>"; };
+		487470AD23F4644900E374B8 /* UserInfoVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserInfoVC.swift; sourceTree = "<group>"; };
 		4880443D23F3313A00645ED8 /* UIHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIHelper.swift; sourceTree = "<group>"; };
 		4890692823F0D3E400BED47D /* FollowersListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FollowersListVC.swift; sourceTree = "<group>"; };
 		48A770A823F1EA7A00F44481 /* GFAlertContainerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFAlertContainerView.swift; sourceTree = "<group>"; };
@@ -84,6 +86,7 @@
 				48E1036F23F09ED300015AD4 /* SearchVC.swift */,
 				48E1037123F09EF800015AD4 /* FavoritesListVC.swift */,
 				4890692823F0D3E400BED47D /* FollowersListVC.swift */,
+				487470AD23F4644900E374B8 /* UserInfoVC.swift */,
 			);
 			path = Screens;
 			sourceTree = "<group>";
@@ -300,6 +303,7 @@
 				48DCC28423F302E30031008D /* FollowerCell.swift in Sources */,
 				48DCC28623F303520031008D /* GFAvatarImageView.swift in Sources */,
 				48DCCEFF23F1B1960094FDBA /* GFAlertVC.swift in Sources */,
+				487470AE23F4644900E374B8 /* UserInfoVC.swift in Sources */,
 				48A770AC23F1EBBC00F44481 /* Follower.swift in Sources */,
 				48DCCEFD23F1AED80094FDBA /* GFBodyLabel.swift in Sources */,
 				48DCCEFB23F1AC3F0094FDBA /* GFTitleLabel.swift in Sources */,
