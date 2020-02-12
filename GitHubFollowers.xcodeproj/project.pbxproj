@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		487470AE23F4644900E374B8 /* UserInfoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 487470AD23F4644900E374B8 /* UserInfoVC.swift */; };
 		4880443E23F3313A00645ED8 /* UIHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4880443D23F3313A00645ED8 /* UIHelper.swift */; };
+		4884F1C223F4B22F007D4703 /* GFItemInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4884F1C123F4B22F007D4703 /* GFItemInfoView.swift */; };
 		4890692923F0D3E400BED47D /* FollowersListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4890692823F0D3E400BED47D /* FollowersListVC.swift */; };
 		48A770A923F1EA7A00F44481 /* GFAlertContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48A770A823F1EA7A00F44481 /* GFAlertContainerView.swift */; };
 		48A770AC23F1EBBC00F44481 /* Follower.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48A770AB23F1EBBC00F44481 /* Follower.swift */; };
@@ -38,6 +39,7 @@
 /* Begin PBXFileReference section */
 		487470AD23F4644900E374B8 /* UserInfoVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserInfoVC.swift; sourceTree = "<group>"; };
 		4880443D23F3313A00645ED8 /* UIHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIHelper.swift; sourceTree = "<group>"; };
+		4884F1C123F4B22F007D4703 /* GFItemInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFItemInfoView.swift; sourceTree = "<group>"; };
 		4890692823F0D3E400BED47D /* FollowersListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FollowersListVC.swift; sourceTree = "<group>"; };
 		48A770A823F1EA7A00F44481 /* GFAlertContainerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFAlertContainerView.swift; sourceTree = "<group>"; };
 		48A770AB23F1EBBC00F44481 /* Follower.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Follower.swift; sourceTree = "<group>"; };
@@ -150,6 +152,7 @@
 			children = (
 				48A770A823F1EA7A00F44481 /* GFAlertContainerView.swift */,
 				48D7D2D223F361840098C861 /* GFEmptyStateView.swift */,
+				4884F1C123F4B22F007D4703 /* GFItemInfoView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -323,6 +326,7 @@
 				4880443E23F3313A00645ED8 /* UIHelper.swift in Sources */,
 				48A770B123F1FA9A00F44481 /* NetworkManager.swift in Sources */,
 				48EF7A2E23F08D7400B80688 /* AppDelegate.swift in Sources */,
+				4884F1C223F4B22F007D4703 /* GFItemInfoView.swift in Sources */,
 				48EF7A3023F08D7400B80688 /* SceneDelegate.swift in Sources */,
 				48E0966523F48C0A0014514C /* Constants.swift in Sources */,
 			);
