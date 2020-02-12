@@ -1,8 +1,8 @@
 //
-//  ErrorMessage.swift
+//  GFError.swift
 //  GitHubFollowers
 //
-//  Created by Fred Lefevre on 2020-02-10.
+//  Created by Fred Lefevre on 2020-02-12.
 //  Copyright © 2020 Fred Lefevre. All rights reserved.
 //
 
