@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		481DBB8823F8564C00D07C6E /* FavoriteCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 481DBB8723F8564C00D07C6E /* FavoriteCell.swift */; };
 		487470AE23F4644900E374B8 /* UserInfoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 487470AD23F4644900E374B8 /* UserInfoVC.swift */; };
 		4880443E23F3313A00645ED8 /* UIHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4880443D23F3313A00645ED8 /* UIHelper.swift */; };
 		4884F1C223F4B22F007D4703 /* GFItemInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4884F1C123F4B22F007D4703 /* GFItemInfoView.swift */; };
@@ -43,6 +44,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		481DBB8723F8564C00D07C6E /* FavoriteCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteCell.swift; sourceTree = "<group>"; };
 		487470AD23F4644900E374B8 /* UserInfoVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserInfoVC.swift; sourceTree = "<group>"; };
 		4880443D23F3313A00645ED8 /* UIHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIHelper.swift; sourceTree = "<group>"; };
 		4884F1C123F4B22F007D4703 /* GFItemInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFItemInfoView.swift; sourceTree = "<group>"; };
@@ -214,6 +216,7 @@
 			isa = PBXGroup;
 			children = (
 				48DCC28323F302E30031008D /* FollowerCell.swift */,
+				481DBB8723F8564C00D07C6E /* FavoriteCell.swift */,
 			);
 			path = Cells;
 			sourceTree = "<group>";
@@ -335,6 +338,7 @@
 				48E1037423F0B6DE00015AD4 /* GFButton.swift in Sources */,
 				48A770AE23F1F01700F44481 /* User.swift in Sources */,
 				48DA4F9C23F5DC7800FD26AD /* PersistenceManager.swift in Sources */,
+				481DBB8823F8564C00D07C6E /* FavoriteCell.swift in Sources */,
 				48E0965F23F47BD00014514C /* GFError.swift in Sources */,
 				48DCC28423F302E30031008D /* FollowerCell.swift in Sources */,
 				4884F1C623F4C7EB007D4703 /* GFRepoItemVC.swift in Sources */,
